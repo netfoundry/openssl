@@ -1,2 +1,6 @@
-# template-repo
-Various materials related to or pertaining to the branding of OpenZiti
+
+# OpenSSL FIPS Provider
+
+This repository builds and attests the OpenSSL FIPS Provider.
+
+Other NetFoundry projects include layers from this image.
